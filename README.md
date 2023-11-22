@@ -13,7 +13,7 @@ The Titanic dataset comprises information on passengers aboard the RMS Titanic, 
 4. Age
 5. Number of Siblings/Spouses Aboard (SibSp)
 6. Number of Parents/Children Aboard (Parch)
-7. Ticket Number
+7. Ticket
 8. Fare
 9. Cabin
 10. Port of Embarkation (Embarked)
